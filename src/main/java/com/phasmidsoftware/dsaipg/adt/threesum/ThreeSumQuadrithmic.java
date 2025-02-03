@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2024. Robin Hillyard
- */
-
 package com.phasmidsoftware.dsaipg.adt.threesum;
 
 import java.util.ArrayList;
@@ -12,7 +8,7 @@ import java.util.List;
 /**
  * Implementation of ThreeSum which follows the simple optimization of
  * requiring a sorted array, then using binary search to find an element x where
- * -x the sum of a pair of elements.
+ * -x is the sum of a pair of elements.
  * <p>
  * The array provided in the constructor MUST be ordered.
  * <p>
@@ -41,12 +37,14 @@ class ThreeSumQuadrithmic implements ThreeSum {
      * of three integers in the array that sum to zero.
      */
     public Triple[] getTriples() {
+    	long startTime = System.nanoTime();
         List<Triple> triples = new ArrayList<>();
-        for (int i = 0; i < length; i++)
+        for (int i = 0; i < length; i++) {
             for (int j = i + 1; j < length; j++) {
                 Triple triple = getTriple(i, j);
                 if (triple != null) triples.add(triple);
             }
+        }
         Collections.sort(triples);
         return triples.stream().distinct().toArray(Triple[]::new);
     }
@@ -61,8 +59,11 @@ class ThreeSumQuadrithmic implements ThreeSum {
      * or {@code null} if no such triple can be found.
      */
     Triple getTriple(int i, int j) {
-        // TO BE IMPLEMENTED  : use binary search to find the third element
-        // END SOLUTION
+        int target = -(a[i] + a[j]); 
+        int k = Arrays.binarySearch(a, j + 1, length, target); 
+        if (k > j) { 
+            return new Triple(a[i], a[j], a[k]);
+        }
         return null;
     }
 

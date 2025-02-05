@@ -47,8 +47,8 @@ public class ThreeSumQuadratic implements ThreeSum {
      */
     public List<Triple> getTriples(int j) {
         List<Triple> triples = new ArrayList<>();
-        int left = 0;      // 左指针
-        int right = length - 1; // 右指针
+        int left = 0;      
+        int right = length - 1; 
 
         while (left < j && right > j) {
             long sum = (long) a[left] + a[j] + a[right]; 

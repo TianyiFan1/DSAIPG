@@ -113,7 +113,7 @@ public class TimerTest {
         final Timer timer = new Timer();
         final int zzz = 20;
         final double mean = timer.repeat(10, () -> zzz, t -> {
-            GoToSleep(t, 0);
+            GoToSleep(10, 0);
             return null;
         });
         assertEquals(10, new PrivateMethodTester(timer).invokePrivate("getLaps"));

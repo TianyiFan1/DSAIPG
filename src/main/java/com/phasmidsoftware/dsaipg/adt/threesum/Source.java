@@ -4,7 +4,6 @@
 
 package com.phasmidsoftware.dsaipg.adt.threesum;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.function.Supplier;
@@ -12,8 +11,8 @@ import java.util.function.Supplier;
 /**
  * The Source class provides a source of entropy and a set of utilities
  * for generating arrays of integers based on specific constraints,
- * and designed for use in scenarios like
- * testing algorithms or data structures that require randomly generated inputs.
+ * and designed for use in scenarios like testing algorithms or data structures
+ * that require randomly generated inputs.
  */
 class Source {
     /**
@@ -53,29 +52,50 @@ class Source {
     }
 
     /**
-     * Generates a {@code Supplier} that provides an array of {@code n} integers,
-     * generated based on the specified safety factor and ensuring specific properties:
-     * - The array is derived from a larger array of random integers scaled by the safetyFactor.
-     * - Each value in the resulting array is distinct.
-     * - The output array is ordered and uniformly samples the distinct values.
+     * Generates a {@code Supplier} that provides an array of {@code n} integers.
+     * The output array contains distinct and sorted random integers.
      *
-     * @param safetyFactor the safety factor which determines the size of the initial integer pool
-     *                     and the range of random integers generated. The factor increases the distribution
-     *                     of values in the initial pool compared to the final array.
-     * @return a {@code Supplier} of an integer array, containing {@code n} distinct, ordered integers
-     *         uniformly sampled from a sorted set of random integers.
+     * @param safetyFactor The multiplier used to generate an initial larger set of random integers.
+     * @return A {@code Supplier<int[]>} providing an array of {@code n} distinct, ordered integers.
      */
     public Supplier<int[]> intsSupplier(int safetyFactor) {
         return () -> {
-            int[] ints = (int[]) Array.newInstance(int.class, safetyFactor * n);
-            for (int i = 0; i < ints.length; i++) ints[i] = random.nextInt(safetyFactor * m) - safetyFactor * m / 2;
+            int[] ints = new int[Math.max(n * safetyFactor, n + 100)]; // 确保数组足够大，避免 distinct 数量不足
+            for (int i = 0; i < ints.length; i++) {
+                ints[i] = random.nextInt(2 * m) - m; // 生成范围 [-M, M]
+            }
+
             Arrays.sort(ints);
-            int[] distinct = Arrays.stream(ints).distinct().toArray();
-            int[] result = (int[]) Array.newInstance(int.class, n);
-            for (int i = 0; i < n; i++)
-                result[i] = distinct[i * (distinct.length / n)];
-            return result;
+            int[] distinct = Arrays.stream(ints).distinct().toArray(); // 去重
+
+            // 确保返回的数组大小等于 n
+            if (distinct.length >= n) {
+                return Arrays.copyOf(distinct, n);
+            } else {
+                System.out.println("Warning: Generated array size is less than expected! Expanding...");
+                return expandArray(distinct, n);
+            }
         };
+    }
+
+    /**
+     * If the distinct array size is too small, we regenerate extra elements to reach N.
+     *
+     * @param smallArray The original small distinct array.
+     * @param targetSize The required target size.
+     * @return A new array of length {@code targetSize}.
+     */
+    private int[] expandArray(int[] smallArray, int targetSize) {
+        int[] result = Arrays.copyOf(smallArray, targetSize);
+        int index = smallArray.length;
+        while (index < targetSize) {
+            int newValue = random.nextInt(2 * m) - m; 
+            if (Arrays.binarySearch(smallArray, newValue) < 0) { 
+                result[index++] = newValue;
+            }
+        }
+        Arrays.sort(result); 
+        return result;
     }
 
     private final int n;

@@ -21,7 +21,7 @@ public class RandomWalk {
      */
     public double distance() {
         // TO BE IMPLEMENTED 
-         return 0.0;
+    	return Math.sqrt((long) x * x + (long) y * y);
         // END SOLUTION
     }
 
@@ -33,7 +33,8 @@ public class RandomWalk {
      */
     private void move(int dx, int dy) {
         // TO BE IMPLEMENTED  do move
-         throw new RuntimeException("Not implemented");
+    	x += dx;
+        y += dy;
         // END SOLUTION
     }
 
@@ -44,7 +45,9 @@ public class RandomWalk {
      */
     private void randomWalk(int m) {
         // TO BE IMPLEMENTED 
-throw new RuntimeException("implementation missing");
+    	for (int i = 0; i < m; i++) {
+            randomMove();
+        }
     }
 
     /**

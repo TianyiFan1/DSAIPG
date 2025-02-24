@@ -36,10 +36,19 @@ public class ThreeSumQuadratic implements ThreeSum {
      */
     public Triple[] getTriples() {
         List<Triple> triples = new ArrayList<>();
-        for (int i = 0; i < length; i++) triples.addAll(getTriples(i));
-        Collections.sort(triples);
+        
+        for (int j = 1; j < length - 1; j++) {
+
+            if (j > 1 && a[j] == a[j - 1]) continue;
+
+            List<Triple> newTriples = getTriples(j);
+            
+            triples.addAll(newTriples);
+        }
+
         return triples.stream().distinct().toArray(Triple[]::new);
     }
+
 
     /**
      * Get a list of Triples such that the middle index is the given value j.
@@ -47,11 +56,36 @@ public class ThreeSumQuadratic implements ThreeSum {
      * @param j the index of the middle value.
      * @return a Triple such that
      */
-     List<Triple> getTriples(int j) {
-         List<Triple> triples = new ArrayList<>();
-        // TO BE IMPLEMENTED  : for each candidate, test if a[i] + a[j] + a[k] = 0.
-throw new RuntimeException("implementation missing");
+    public List<Triple> getTriples(int j) {
+        List<Triple> triples = new ArrayList<>();
+        int i = 0, k = length - 1;
+
+        while (i < j && k > j) {
+            int sum = a[i] + a[j] + a[k];
+
+            if (sum == 0) {
+                triples.add(new Triple(a[i], a[j], a[k]));
+
+                int leftValue = a[i];
+                int rightValue = a[k];
+
+                i++;
+                k--;
+
+                while (i < j && a[i] == leftValue) i++;
+                while (k > j && a[k] == rightValue) k--;
+            } 
+            else if (sum < 0) {
+                i++;
+            } 
+            else {
+                k--;
+            }
+        }
+        return triples;
     }
+
+
 
     private final int[] a;
     private final int length;

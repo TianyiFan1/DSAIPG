@@ -8,6 +8,7 @@ import com.phasmidsoftware.dsaipg.util.Benchmark_Timer;
 import com.phasmidsoftware.dsaipg.util.TimeLogger;
 import com.phasmidsoftware.dsaipg.util.Utilities;
 
+import com.phasmidsoftware.dsaipg.util.Source;
 import java.util.function.Consumer;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
@@ -24,6 +25,7 @@ import java.util.function.UnaryOperator;
  * interpretability.
  */
 public class ThreeSumBenchmark {
+	
     /**
      * Constructs a ThreeSumBenchmark instance to facilitate the performance evaluation
      * of different implementations of the Three-Sum algorithm.
@@ -77,6 +79,7 @@ public class ThreeSumBenchmark {
      *
      * @param args command-line arguments (not used in this application).
      */
+    
     public static void main(String[] args) {
         new ThreeSumBenchmark(100, 250, 250).runBenchmarks();
         new ThreeSumBenchmark(50, 500, 500).runBenchmarks();
@@ -101,9 +104,16 @@ public class ThreeSumBenchmark {
      *                     results of the benchmark.
      */
     private void benchmarkThreeSum(final String description, final Consumer<int[]> function, int n, final TimeLogger[] timeLoggers) {
-        if (description.equals("ThreeSumCubic") && n > 4000) return;
-        // TO BE IMPLEMENTED 
-throw new RuntimeException("implementation missing");
+    	if (description.equals("ThreeSumCubic") && n > 4000) return; 
+
+        Benchmark_Timer<int[]> timer = new Benchmark_Timer<>(description, function);
+
+        double time = timer.runFromSupplier(supplier, runs);
+
+        System.out.println(description + ": " + time + " ms");
+        for (TimeLogger logger : timeLoggers) {
+            logger.log(description, time, n);
+        }
     }
 
     /**

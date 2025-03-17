@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2024. Robin Hillyard
+ */
+
 package com.phasmidsoftware.dsaipg.adt.threesum;
 
 import java.util.ArrayList;
@@ -5,11 +9,12 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Implementation of the ThreeSum problem using a quadratic approach (O(N^2)).
- * The algorithm iterates over all possible middle elements and applies the two-pointer technique
- * to find pairs that sum to the negative of the middle element.
+ * Implementation of ThreeSum which follows the approach of dividing the solution-space into
+ * N sub-spaces where each sub-space corresponds to a fixed value for the middle index of the three values.
+ * Each sub-space is then solved by expanding the scope of the other two indices outwards from the starting point.
+ * Since each sub-space can be solved in O(N) time, the overall complexity is O(N^2).
  * <p>
- * NOTE: The input array provided in the constructor MUST be sorted before using this class.
+ * NOTE: The array provided in the constructor MUST be ordered.
  */
 public class ThreeSumQuadratic implements ThreeSum {
     /**
@@ -30,49 +35,57 @@ public class ThreeSumQuadratic implements ThreeSum {
      * the sum of its three integers is zero.
      */
     public Triple[] getTriples() {
-    	long startTime = System.nanoTime();
         List<Triple> triples = new ArrayList<>();
+        
         for (int j = 1; j < length - 1; j++) {
-            triples.addAll(getTriples(j));
+
+            if (j > 1 && a[j] == a[j - 1]) continue;
+
+            List<Triple> newTriples = getTriples(j);
+            
+            triples.addAll(newTriples);
         }
-        Collections.sort(triples);
+
         return triples.stream().distinct().toArray(Triple[]::new);
     }
 
+
     /**
-     * Uses the two-pointer technique to find unique triples such that a[i] + a[j] + a[k] = 0.
+     * Get a list of Triples such that the middle index is the given value j.
      *
      * @param j the index of the middle value.
-     * @return a list of Triples where a[i] + a[j] + a[k] = 0.
+     * @return a Triple such that
      */
     public List<Triple> getTriples(int j) {
         List<Triple> triples = new ArrayList<>();
-        int left = 0;      
-        int right = length - 1; 
+        int i = 0, k = length - 1;
 
-        while (left < j && right > j) {
-            long sum = (long) a[left] + a[j] + a[right]; 
+        while (i < j && k > j) {
+            int sum = a[i] + a[j] + a[k];
 
             if (sum == 0) {
-                triples.add(new Triple(a[left], a[j], a[right]));
+                triples.add(new Triple(a[i], a[j], a[k]));
 
-                left++;
-                while (left < j && a[left] == a[left - 1]) {
-                    left++;
-                }
+                int leftValue = a[i];
+                int rightValue = a[k];
 
-                right--;
-                while (right > j && a[right] == a[right + 1]) {
-                    right--;
-                }
-            } else if (sum < 0) {
-                left++; 
-            } else {
-                right--; 
+                i++;
+                k--;
+
+                while (i < j && a[i] == leftValue) i++;
+                while (k > j && a[k] == rightValue) k--;
+            } 
+            else if (sum < 0) {
+                i++;
+            } 
+            else {
+                k--;
             }
         }
         return triples;
     }
+
+
 
     private final int[] a;
     private final int length;

@@ -72,7 +72,8 @@ public class IntroSort<X extends Comparable<X>> extends QuickSort_DualPivot<X> {
      * @param to   the index of the first element not to sort.
      */
     public void sort(X[] xs, int from, int to) {
-        sort(xs, from, to, 2 * floor_lg(to - from));
+        this.depthThreshold = 2 * floor_lg(to - from); 
+        sort(xs, from, to, 0);
     }
 
     /**

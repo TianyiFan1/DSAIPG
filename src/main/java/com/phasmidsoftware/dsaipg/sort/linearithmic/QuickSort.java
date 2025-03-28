@@ -70,6 +70,7 @@ public abstract class QuickSort<X extends Comparable<X>> extends SortWithCompara
      * @param depth the depth of the recursion.
      */
     public void sort(X[] xs, int from, int to, int depth) {
+    
         if (terminator(xs, from, to, depth)) return;
         getHelper().registerDepth(depth);
         Partition<X> partition = createPartition(xs, from, to);

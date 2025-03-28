@@ -132,6 +132,7 @@ public class IntroSortTest {
         Sort<Character> s = new IntroSort<>(Config.load(getClass()));
         Partition<Character> partition = new Partition<>(array, 0, array.length);
         List<Partition<Character>> partitions = ((QuickSort<Character>) s).partitioner.partition(partition);
+        assertEquals("Expected 3 partitions", 3, partitions.size());
         assertEquals(0, partitions.get(0).from);
         assertEquals(4, partitions.get(0).to);
         assertEquals(5, partitions.get(1).from);

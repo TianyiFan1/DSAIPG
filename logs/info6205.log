@@ -1,0 +1,1202 @@
+2025-02-02 16:17:53.985 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2025-02-02 16:17:54.013 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.013 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:17:54.013 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2025-02-02 16:17:54.014 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.014 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:17:54.014 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2025-02-02 16:17:54.014 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.015 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:17:54.015 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2025-02-02 16:17:54.015 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.015 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:17:54.015 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2025-02-02 16:17:54.016 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.016 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:17:54.016 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2025-02-02 16:17:54.016 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.016 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:17:54.016 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2025-02-02 16:17:54.017 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.017 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:17:54.017 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2025-02-02 16:17:54.017 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.017 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:17:54.017 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2025-02-02 16:17:54.017 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.017 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:17:54.018 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:17:54.018 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.018 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:17:54.018 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:17:54.018 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.018 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:17:54.018 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:17:54.018 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.018 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:17:54.019 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2025-02-02 16:17:54.019 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.019 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:17:54.019 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2025-02-02 16:17:54.019 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.019 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:17:54.019 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2025-02-02 16:17:54.020 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.020 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:17:54.020 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2025-02-02 16:17:54.020 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.020 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:17:54.020 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2025-02-02 16:17:54.020 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.020 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:17:54.020 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2 runs
+2025-02-02 16:17:54.021 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.021 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:17:54.021 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2025-02-02 16:17:54.021 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:17:54.021 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:19:42.380 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,000 runs
+2025-02-02 16:19:42.387 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.387 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:19:42.388 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,000 runs
+2025-02-02 16:19:42.388 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.388 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:19:42.389 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,000 runs
+2025-02-02 16:19:42.389 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.389 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:19:42.389 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 500 runs
+2025-02-02 16:19:42.389 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.389 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:19:42.389 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 500 runs
+2025-02-02 16:19:42.389 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.390 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:19:42.390 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 500 runs
+2025-02-02 16:19:42.390 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.390 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:19:42.390 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 200 runs
+2025-02-02 16:19:42.390 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.391 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:19:42.391 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 200 runs
+2025-02-02 16:19:42.391 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.391 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:19:42.391 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 200 runs
+2025-02-02 16:19:42.391 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.391 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:19:42.392 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2025-02-02 16:19:42.392 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.392 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:19:42.392 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2025-02-02 16:19:42.392 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.392 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:19:42.393 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2025-02-02 16:19:42.393 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.393 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:19:42.393 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2025-02-02 16:19:42.393 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.394 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:19:42.394 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2025-02-02 16:19:42.394 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.394 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:19:42.394 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2025-02-02 16:19:42.394 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.394 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:19:42.394 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 30 runs
+2025-02-02 16:19:42.394 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.394 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:19:42.395 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 30 runs
+2025-02-02 16:19:42.395 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.395 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:19:42.395 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2025-02-02 16:19:42.395 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.395 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:19:42.395 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2025-02-02 16:19:42.395 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:19:42.395 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:20:38.256 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10,000 runs
+2025-02-02 16:20:38.262 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.262 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:20:38.263 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10,000 runs
+2025-02-02 16:20:38.263 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.263 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:20:38.264 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10,000 runs
+2025-02-02 16:20:38.264 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.264 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:20:38.264 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5,000 runs
+2025-02-02 16:20:38.264 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.264 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:20:38.265 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5,000 runs
+2025-02-02 16:20:38.265 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.265 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:20:38.265 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5,000 runs
+2025-02-02 16:20:38.265 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.265 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:20:38.266 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000 runs
+2025-02-02 16:20:38.266 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.266 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:20:38.266 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000 runs
+2025-02-02 16:20:38.266 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.266 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:20:38.266 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 2,000 runs
+2025-02-02 16:20:38.266 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.266 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:20:38.267 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,000 runs
+2025-02-02 16:20:38.267 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.267 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:20:38.267 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,000 runs
+2025-02-02 16:20:38.267 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.267 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:20:38.267 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,000 runs
+2025-02-02 16:20:38.267 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.267 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:20:38.268 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 500 runs
+2025-02-02 16:20:38.268 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.268 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:20:38.268 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 500 runs
+2025-02-02 16:20:38.268 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.268 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:20:38.268 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 500 runs
+2025-02-02 16:20:38.269 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.269 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:20:38.269 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 300 runs
+2025-02-02 16:20:38.269 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.269 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:20:38.269 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 300 runs
+2025-02-02 16:20:38.269 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.269 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:20:38.269 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 200 runs
+2025-02-02 16:20:38.269 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.270 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:20:38.270 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 200 runs
+2025-02-02 16:20:38.270 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:20:38.270 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:02.656 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100,000 runs
+2025-02-02 16:21:02.662 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.662 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:02.662 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100,000 runs
+2025-02-02 16:21:02.662 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.663 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:02.663 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100,000 runs
+2025-02-02 16:21:02.663 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.663 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:02.663 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50,000 runs
+2025-02-02 16:21:02.664 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.664 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:02.664 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50,000 runs
+2025-02-02 16:21:02.664 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.664 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:02.664 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50,000 runs
+2025-02-02 16:21:02.664 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.664 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:02.665 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20,000 runs
+2025-02-02 16:21:02.665 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.665 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:02.665 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20,000 runs
+2025-02-02 16:21:02.665 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.665 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:02.665 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20,000 runs
+2025-02-02 16:21:02.665 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.666 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:02.666 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10,000 runs
+2025-02-02 16:21:02.666 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.666 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:02.666 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10,000 runs
+2025-02-02 16:21:02.666 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.666 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:02.666 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10,000 runs
+2025-02-02 16:21:02.666 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.667 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:02.667 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5,000 runs
+2025-02-02 16:21:02.667 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.667 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:02.667 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5,000 runs
+2025-02-02 16:21:02.667 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.667 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:02.668 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5,000 runs
+2025-02-02 16:21:02.668 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.668 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:02.668 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3,000 runs
+2025-02-02 16:21:02.668 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.668 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:02.668 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3,000 runs
+2025-02-02 16:21:02.668 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.668 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:02.668 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000 runs
+2025-02-02 16:21:02.668 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.669 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:02.669 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000 runs
+2025-02-02 16:21:02.669 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:02.669 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:09.015 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,000,000,000 runs
+2025-02-02 16:21:09.021 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.021 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:09.021 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,000,000,000 runs
+2025-02-02 16:21:09.022 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.022 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:09.022 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,000,000,000 runs
+2025-02-02 16:21:09.022 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.022 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:09.022 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 500,000,000 runs
+2025-02-02 16:21:09.023 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.023 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:09.023 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 500,000,000 runs
+2025-02-02 16:21:09.023 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.023 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:09.023 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 500,000,000 runs
+2025-02-02 16:21:09.023 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.023 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:09.024 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 200,000,000 runs
+2025-02-02 16:21:09.024 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.024 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:09.024 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 200,000,000 runs
+2025-02-02 16:21:09.024 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.024 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:09.024 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 200,000,000 runs
+2025-02-02 16:21:09.024 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.025 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:09.025 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100,000,000 runs
+2025-02-02 16:21:09.025 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.025 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:09.025 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100,000,000 runs
+2025-02-02 16:21:09.025 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.025 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:09.025 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100,000,000 runs
+2025-02-02 16:21:09.026 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.026 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:09.026 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50,000,000 runs
+2025-02-02 16:21:09.026 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.026 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:09.026 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50,000,000 runs
+2025-02-02 16:21:09.026 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.026 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:09.027 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50,000,000 runs
+2025-02-02 16:21:09.027 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.027 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:09.027 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 30,000,000 runs
+2025-02-02 16:21:09.027 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.027 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:09.027 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 30,000,000 runs
+2025-02-02 16:21:09.028 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.028 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:09.028 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20,000,000 runs
+2025-02-02 16:21:09.028 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.028 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:09.028 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20,000,000 runs
+2025-02-02 16:21:09.028 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:09.028 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:24.013 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,215,752,192 runs
+2025-02-02 16:21:24.018 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.019 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:24.019 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,215,752,192 runs
+2025-02-02 16:21:24.019 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.020 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:24.020 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,215,752,192 runs
+2025-02-02 16:21:24.020 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.020 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:24.020 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with -1,539,607,552 runs
+2025-02-02 16:21:24.020 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.021 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:24.021 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with -1,539,607,552 runs
+2025-02-02 16:21:24.021 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.021 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:24.021 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with -1,539,607,552 runs
+2025-02-02 16:21:24.021 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.021 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:24.021 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with -1,474,836,480 runs
+2025-02-02 16:21:24.022 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.022 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:24.022 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with -1,474,836,480 runs
+2025-02-02 16:21:24.022 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.022 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:24.022 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with -1,474,836,480 runs
+2025-02-02 16:21:24.022 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.022 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:24.022 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,410,065,408 runs
+2025-02-02 16:21:24.023 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.023 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:24.023 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,410,065,408 runs
+2025-02-02 16:21:24.023 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.023 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:24.023 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,410,065,408 runs
+2025-02-02 16:21:24.023 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.023 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:24.024 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 705,032,704 runs
+2025-02-02 16:21:24.024 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.024 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:24.024 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 705,032,704 runs
+2025-02-02 16:21:24.024 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.024 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:24.024 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 705,032,704 runs
+2025-02-02 16:21:24.024 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.024 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:24.025 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with -1,294,967,296 runs
+2025-02-02 16:21:24.025 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.025 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:24.025 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with -1,294,967,296 runs
+2025-02-02 16:21:24.025 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.025 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:24.025 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000,000,000 runs
+2025-02-02 16:21:24.025 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.026 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:24.026 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000,000,000 runs
+2025-02-02 16:21:24.026 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:24.026 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:37.363 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:21:37.365 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,215,752,192 runs
+2025-02-02 16:21:37.369 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.369 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:37.369 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:21:37.369 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,215,752,192 runs
+2025-02-02 16:21:37.370 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.370 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:37.370 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:21:37.370 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,215,752,192 runs
+2025-02-02 16:21:37.370 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.371 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:37.371 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:21:37.371 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with -1,539,607,552 runs
+2025-02-02 16:21:37.371 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.371 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:37.371 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:21:37.371 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with -1,539,607,552 runs
+2025-02-02 16:21:37.371 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.372 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:37.372 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:21:37.372 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with -1,539,607,552 runs
+2025-02-02 16:21:37.372 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.372 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:37.372 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:21:37.372 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with -1,474,836,480 runs
+2025-02-02 16:21:37.372 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.373 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:37.373 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:21:37.373 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with -1,474,836,480 runs
+2025-02-02 16:21:37.373 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.373 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:37.373 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:21:37.373 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with -1,474,836,480 runs
+2025-02-02 16:21:37.373 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.373 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:37.374 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:21:37.374 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,410,065,408 runs
+2025-02-02 16:21:37.374 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.374 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:37.374 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:21:37.375 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,410,065,408 runs
+2025-02-02 16:21:37.375 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.375 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:37.375 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:21:37.375 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,410,065,408 runs
+2025-02-02 16:21:37.375 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.375 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:37.375 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:21:37.375 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 705,032,704 runs
+2025-02-02 16:21:37.376 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.376 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:37.376 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:21:37.376 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 705,032,704 runs
+2025-02-02 16:21:37.376 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.376 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:37.376 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:21:37.376 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 705,032,704 runs
+2025-02-02 16:21:37.376 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.377 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:21:37.377 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:21:37.377 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with -1,294,967,296 runs
+2025-02-02 16:21:37.377 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.377 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:37.377 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:21:37.377 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with -1,294,967,296 runs
+2025-02-02 16:21:37.377 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.377 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:21:37.378 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:21:37.378 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000,000,000 runs
+2025-02-02 16:21:37.378 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.378 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:21:37.378 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:21:37.378 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000,000,000 runs
+2025-02-02 16:21:37.378 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:21:37.378 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:26:50.471 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10,000 runs
+2025-02-02 16:26:50.476 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.476 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:26:50.477 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10,000 runs
+2025-02-02 16:26:50.477 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.477 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:26:50.477 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10,000 runs
+2025-02-02 16:26:50.478 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.478 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:26:50.478 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5,000 runs
+2025-02-02 16:26:50.478 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.478 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:26:50.478 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5,000 runs
+2025-02-02 16:26:50.478 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.478 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:26:50.478 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5,000 runs
+2025-02-02 16:26:50.479 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.479 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:26:50.479 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000 runs
+2025-02-02 16:26:50.479 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.479 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:26:50.479 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000 runs
+2025-02-02 16:26:50.479 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.479 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:26:50.480 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 2,000 runs
+2025-02-02 16:26:50.480 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.480 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:26:50.480 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,000 runs
+2025-02-02 16:26:50.480 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.480 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:26:50.480 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,000 runs
+2025-02-02 16:26:50.481 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.481 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:26:50.481 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,000 runs
+2025-02-02 16:26:50.481 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.481 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:26:50.481 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 500 runs
+2025-02-02 16:26:50.481 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.481 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:26:50.481 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 500 runs
+2025-02-02 16:26:50.481 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.482 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:26:50.482 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 500 runs
+2025-02-02 16:26:50.482 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.482 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:26:50.482 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 300 runs
+2025-02-02 16:26:50.482 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.482 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:26:50.483 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 300 runs
+2025-02-02 16:26:50.483 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.483 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:26:50.483 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 200 runs
+2025-02-02 16:26:50.483 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.483 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:26:50.483 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 200 runs
+2025-02-02 16:26:50.483 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:26:50.483 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:27:28.884 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100,000,000 runs
+2025-02-02 16:27:28.890 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.890 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:27:28.890 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100,000,000 runs
+2025-02-02 16:27:28.890 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.891 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:27:28.891 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100,000,000 runs
+2025-02-02 16:27:28.891 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.891 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:27:28.892 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50,000,000 runs
+2025-02-02 16:27:28.892 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.892 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:27:28.892 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50,000,000 runs
+2025-02-02 16:27:28.892 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.893 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:27:28.893 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50,000,000 runs
+2025-02-02 16:27:28.893 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.893 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:27:28.893 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20,000,000 runs
+2025-02-02 16:27:28.894 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.894 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:27:28.894 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20,000,000 runs
+2025-02-02 16:27:28.894 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.894 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:27:28.895 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20,000,000 runs
+2025-02-02 16:27:28.895 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.895 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:27:28.895 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10,000,000 runs
+2025-02-02 16:27:28.895 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.895 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:27:28.895 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10,000,000 runs
+2025-02-02 16:27:28.896 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.896 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:27:28.896 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10,000,000 runs
+2025-02-02 16:27:28.896 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.896 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:27:28.896 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5,000,000 runs
+2025-02-02 16:27:28.897 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.897 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:27:28.897 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5,000,000 runs
+2025-02-02 16:27:28.897 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.897 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:27:28.897 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5,000,000 runs
+2025-02-02 16:27:28.897 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.897 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:27:28.897 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3,000,000 runs
+2025-02-02 16:27:28.898 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.898 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:27:28.898 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3,000,000 runs
+2025-02-02 16:27:28.898 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.898 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:27:28.898 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000,000 runs
+2025-02-02 16:27:28.898 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.898 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:27:28.898 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000,000 runs
+2025-02-02 16:27:28.898 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:27:28.899 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:29:09.517 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:29:09.520 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10,000 runs
+2025-02-02 16:29:09.523 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.524 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:29:09.524 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:29:09.524 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10,000 runs
+2025-02-02 16:29:09.524 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.524 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:29:09.525 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:29:09.525 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10,000 runs
+2025-02-02 16:29:09.525 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.525 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:29:09.526 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:29:09.526 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5,000 runs
+2025-02-02 16:29:09.526 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.526 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:29:09.527 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:29:09.527 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5,000 runs
+2025-02-02 16:29:09.527 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.527 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:29:09.527 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:29:09.527 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5,000 runs
+2025-02-02 16:29:09.527 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.527 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:29:09.528 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:29:09.529 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000 runs
+2025-02-02 16:29:09.529 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.529 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:29:09.529 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:29:09.529 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000 runs
+2025-02-02 16:29:09.529 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.529 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:29:09.529 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:29:09.530 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 2,000 runs
+2025-02-02 16:29:09.530 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.530 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:29:09.532 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:29:09.532 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,000 runs
+2025-02-02 16:29:09.532 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.532 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:29:09.532 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:29:09.532 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,000 runs
+2025-02-02 16:29:09.532 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.532 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:29:09.532 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:29:09.533 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,000 runs
+2025-02-02 16:29:09.533 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.533 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:29:09.535 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:29:09.535 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 500 runs
+2025-02-02 16:29:09.535 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.535 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:29:09.536 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:29:09.536 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 500 runs
+2025-02-02 16:29:09.536 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.536 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:29:09.536 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:29:09.536 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 500 runs
+2025-02-02 16:29:09.536 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.536 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:29:09.540 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:29:09.540 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 300 runs
+2025-02-02 16:29:09.540 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.540 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:29:09.540 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:29:09.540 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 300 runs
+2025-02-02 16:29:09.540 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.540 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:29:09.546 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:29:09.546 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 200 runs
+2025-02-02 16:29:09.546 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.546 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:29:09.546 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:29:09.547 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 200 runs
+2025-02-02 16:29:09.547 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:29:09.547 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:00.172 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:31:00.174 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10,000 runs
+2025-02-02 16:31:00.177 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.178 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:31:00.178 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:31:00.178 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10,000 runs
+2025-02-02 16:31:00.178 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.179 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:00.179 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:31:00.179 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10,000 runs
+2025-02-02 16:31:00.179 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.179 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:31:00.180 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:31:00.180 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5,000 runs
+2025-02-02 16:31:00.181 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.181 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:31:00.181 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:31:00.181 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5,000 runs
+2025-02-02 16:31:00.181 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.181 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:00.181 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:31:00.181 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5,000 runs
+2025-02-02 16:31:00.182 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.182 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:31:00.183 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:31:00.183 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 2,000 runs
+2025-02-02 16:31:00.183 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.183 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:31:00.183 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:31:00.183 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2,000 runs
+2025-02-02 16:31:00.183 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.183 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:00.184 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:31:00.184 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 2,000 runs
+2025-02-02 16:31:00.184 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.184 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:31:00.186 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:31:00.186 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 1,000 runs
+2025-02-02 16:31:00.186 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.186 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:31:00.186 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:31:00.186 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 1,000 runs
+2025-02-02 16:31:00.186 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.187 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:00.187 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:31:00.187 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 1,000 runs
+2025-02-02 16:31:00.187 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.187 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:31:00.189 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:31:00.189 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 500 runs
+2025-02-02 16:31:00.189 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.189 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:31:00.190 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:31:00.190 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 500 runs
+2025-02-02 16:31:00.190 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.190 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:00.190 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2025-02-02 16:31:00.190 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 500 runs
+2025-02-02 16:31:00.190 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.190 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  .0000
+2025-02-02 16:31:00.194 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:31:00.194 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 300 runs
+2025-02-02 16:31:00.194 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.194 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:31:00.194 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:31:00.194 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 300 runs
+2025-02-02 16:31:00.194 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.195 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:00.201 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2025-02-02 16:31:00.201 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 200 runs
+2025-02-02 16:31:00.201 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.201 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .0000
+2025-02-02 16:31:00.201 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2025-02-02 16:31:00.201 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 200 runs
+2025-02-02 16:31:00.202 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  .0000
+2025-02-02 16:31:00.202 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .0000
+2025-02-02 16:31:38.320 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  22.2135
+2025-02-02 16:31:38.321 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  710.8320
+2025-02-02 16:31:38.334 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  12.7702
+2025-02-02 16:31:38.335 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  25.6501
+2025-02-02 16:31:38.349 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  13.5585
+2025-02-02 16:31:38.349 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  5.2065
+2025-02-02 16:31:38.358 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  8.0946
+2025-02-02 16:31:38.358 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  64.7568
+2025-02-02 16:31:38.364 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  5.5417
+2025-02-02 16:31:38.365 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.4724
+2025-02-02 16:31:38.394 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  28.9213
+2025-02-02 16:31:38.395 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.3882
+2025-02-02 16:31:38.427 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  30.6336
+2025-02-02 16:31:38.427 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  61.2672
+2025-02-02 16:31:38.446 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  18.9296
+2025-02-02 16:31:38.447 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  1.8995
+2025-02-02 16:31:38.746 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  297.7401
+2025-02-02 16:31:38.746 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.7864
+2025-02-02 16:31:38.847 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  99.5586
+2025-02-02 16:31:38.847 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  49.7793
+2025-02-02 16:31:38.938 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  88.6277
+2025-02-02 16:31:38.938 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.0206
+2025-02-02 16:31:41.327 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  2388.0546
+2025-02-02 16:31:41.327 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.7910
+2025-02-02 16:31:41.808 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  477.7979
+2025-02-02 16:31:41.808 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  59.7247
+2025-02-02 16:31:42.206 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  396.0515
+2025-02-02 16:31:42.206 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.0687
+2025-02-02 16:32:01.895 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  19687.0300
+2025-02-02 16:32:01.895 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.8457
+2025-02-02 16:32:03.865 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  1967.1440
+2025-02-02 16:32:03.865 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  61.4733
+2025-02-02 16:32:05.956 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  2088.6135
+2025-02-02 16:32:05.957 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.5170
+2025-02-02 16:32:15.179 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  9216.0338
+2025-02-02 16:32:15.179 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  72.0003
+2025-02-02 16:32:22.183 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  7000.3226
+2025-02-02 16:32:22.183 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  1.9580
+2025-02-03 18:18:01.694 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  27.4619
+2025-02-03 18:18:01.695 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  878.7808
+2025-02-03 18:18:01.710 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  13.8020
+2025-02-03 18:18:01.722 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  27.7226
+2025-02-03 18:18:01.744 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  21.0583
+2025-02-03 18:18:01.744 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  8.0864
+2025-02-03 18:18:01.753 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  7.2508
+2025-02-03 18:18:01.753 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  58.0064
+2025-02-03 18:18:01.759 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  5.5198
+2025-02-03 18:18:01.760 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.4626
+2025-02-03 18:18:01.786 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  26.0860
+2025-02-03 18:18:01.786 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.2521
+2025-02-03 18:18:01.817 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  29.8920
+2025-02-03 18:18:01.817 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  59.7840
+2025-02-03 18:18:01.839 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  20.7464
+2025-02-03 18:18:01.839 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.0818
+2025-02-03 18:18:02.146 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  305.3067
+2025-02-03 18:18:02.146 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.8318
+2025-02-03 18:18:02.254 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  105.5333
+2025-02-03 18:18:02.255 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  52.7666
+2025-02-03 18:18:02.355 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  98.6733
+2025-02-03 18:18:02.355 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.2496
+2025-02-03 18:18:04.803 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  2447.0981
+2025-02-03 18:18:04.803 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.8353
+2025-02-03 18:18:05.233 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  428.5456
+2025-02-03 18:18:05.233 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  53.5682
+2025-02-03 18:18:05.621 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  385.9982
+2025-02-03 18:18:05.621 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.0162
+2025-02-03 18:18:18.422 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  2.8307
+2025-02-03 18:18:18.423 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  90.5824
+2025-02-03 18:18:18.428 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  3.8425
+2025-02-03 18:18:18.429 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  7.7180
+2025-02-03 18:18:18.438 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  8.1270
+2025-02-03 18:18:18.438 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  3.1208
+2025-02-03 18:18:18.442 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  .9855
+2025-02-03 18:18:18.443 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  7.8840
+2025-02-03 18:18:18.446 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  2.1947
+2025-02-03 18:18:18.446 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .9791
+2025-02-03 18:18:18.473 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  25.5368
+2025-02-03 18:18:18.473 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.2258
+2025-02-03 18:18:18.482 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  5.0833
+2025-02-03 18:18:18.483 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  10.1666
+2025-02-03 18:18:18.489 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  4.5386
+2025-02-03 18:18:18.489 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .4554
+2025-02-03 18:18:18.673 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  181.9894
+2025-02-03 18:18:18.673 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.0919
+2025-02-03 18:18:18.680 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  1.2591
+2025-02-03 18:18:18.680 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .6296
+2025-02-03 18:18:18.707 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  23.7773
+2025-02-03 18:18:18.707 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .5421
+2025-02-03 18:18:20.052 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  1341.3125
+2025-02-03 18:18:20.052 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.0060
+2025-02-03 18:18:20.067 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  4.0167
+2025-02-03 18:18:20.067 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .5021
+2025-02-03 18:18:20.164 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  91.6225
+2025-02-03 18:18:20.164 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .4786
+2025-02-03 18:18:25.039 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  19416.8654
+2025-02-03 18:18:25.039 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.8203
+2025-02-03 18:18:27.018 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  1974.2617
+2025-02-03 18:18:27.018 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  61.6957
+2025-02-03 18:18:29.044 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  2023.8348
+2025-02-03 18:18:29.045 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.4389
+2025-02-03 18:18:31.528 INFO  TimeLogger - ThreeSumCubic: Raw time per run (mSec):  11361.1883
+2025-02-03 18:18:31.529 INFO  TimeLogger - ThreeSumCubic: Normalized time per run (n^3):  1.0651
+2025-02-03 18:18:31.575 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  23.8258
+2025-02-03 18:18:31.575 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .7446
+2025-02-03 18:18:32.146 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  562.8033
+2025-02-03 18:18:32.146 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .6782
+2025-02-03 18:18:32.272 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  91.4302
+2025-02-03 18:18:32.272 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  .7143
+2025-02-03 18:18:34.468 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  2178.9743
+2025-02-03 18:18:34.468 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  .6095
+2025-02-03 18:18:38.764 INFO  TimeLogger - ThreeSumQuadratic: Raw time per run (mSec):  9712.4359
+2025-02-03 18:18:38.764 INFO  TimeLogger - ThreeSumQuadratic: Normalized time per run (n^2):  75.8784
+2025-02-03 18:18:46.266 INFO  TimeLogger - ThreeSumQuadrithmic: Raw time per run (mSec):  7498.5071
+2025-02-03 18:18:46.266 INFO  TimeLogger - ThreeSumQuadrithmic: Normalized time per run (n^2 log n):  2.0973
+2025-02-09 23:44:01.770 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-09 23:44:01.780 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-09 23:44:01.782 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-09 23:44:02.351 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-09 23:44:02.353 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-09 23:44:02.355 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-09 23:45:13.064 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-09 23:45:13.072 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-09 23:45:13.073 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-09 23:45:13.641 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-09 23:45:13.643 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-09 23:45:13.644 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-09 23:47:04.145 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-09 23:47:04.177 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-09 23:47:04.179 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-09 23:47:04.746 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-09 23:47:04.748 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-09 23:47:04.749 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-09 23:50:08.275 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-09 23:50:08.308 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-09 23:50:08.309 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-09 23:50:12.300 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-09 23:50:12.302 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-09 23:50:12.303 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:29:04.340 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.407 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.410 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.418 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.487 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.627 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.628 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.655 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:04.924 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:05.449 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:05.451 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:05.542 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:06.585 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:08.707 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:08.709 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:09.002 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:13.158 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:22.151 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:22.155 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:29:23.157 INFO  Benchmark_Timer - Begin run: Insertion Sort with 10 runs
+2025-02-10 00:34:21.664 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:34:21.669 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:34:21.670 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:34:25.675 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:34:25.676 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:34:25.677 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:37:24.016 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:37:24.021 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:37:24.022 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:37:28.009 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:37:28.010 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:37:28.011 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:44:47.458 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:44:47.463 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:44:47.464 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:44:51.446 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:44:51.448 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:44:51.449 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:45:03.438 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:45:03.443 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:45:03.444 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:45:07.432 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:45:07.434 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:45:07.435 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:48:41.703 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:48:41.709 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:48:41.710 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:48:45.714 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:48:45.715 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:48:45.716 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:49:00.378 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:49:00.384 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:49:00.385 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:49:04.373 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:49:04.375 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:49:04.376 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:49:38.630 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:49:38.638 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:49:38.640 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:49:42.645 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:49:42.646 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:49:42.647 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:49:52.713 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:49:52.717 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:49:52.718 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:49:56.738 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:49:56.739 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:49:56.740 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:50:10.268 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:50:10.273 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:50:10.274 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:50:14.256 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:50:14.258 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:50:14.258 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:50:40.975 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:50:40.980 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:50:40.981 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:50:44.963 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:50:44.965 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:50:44.966 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:50:56.120 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:50:56.125 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:50:56.126 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:51:00.106 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:51:00.108 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:51:00.109 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:51:19.331 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:51:19.336 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:51:19.337 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:51:23.312 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:51:23.313 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:51:23.314 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:52:35.433 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:52:35.438 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:52:35.440 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:52:39.435 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:52:39.437 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:52:39.438 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:52:55.011 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:52:55.015 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:52:55.016 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:52:59.007 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:52:59.008 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:52:59.009 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 00:53:26.345 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 00:53:26.350 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 00:53:26.351 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 00:53:30.329 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 00:53:30.332 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 00:53:30.332 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-10 01:22:28.416 INFO  Benchmark_Timer - Begin run: Zero Iterations Test with 0 runs
+2025-02-10 01:22:28.421 INFO  Benchmark_Timer - Begin run: Full Pipeline Test with 10 runs
+2025-02-10 01:22:28.422 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2025-02-10 01:22:32.396 INFO  Benchmark_Timer - Begin run: With Postprocessing Test with 10 runs
+2025-02-10 01:22:32.397 INFO  Benchmark_Timer - Begin run: With Preprocessing Test with 10 runs
+2025-02-10 01:22:32.398 INFO  Benchmark_Timer - Begin run: Basic Test with 10 runs
+2025-02-24 16:38:27.103 INFO  Benchmark_Timer - Begin run: Binary Heap Insert with 16,000 runs
+2025-02-24 16:38:27.151 INFO  Benchmark_Timer - Begin run: Binary Heap Remove with 4,000 runs
+2025-02-24 16:38:27.162 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Insert with 16,000 runs
+2025-02-24 16:38:27.172 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Remove with 4,000 runs
+2025-02-24 16:38:27.180 INFO  Benchmark_Timer - Begin run: 4-ary Heap Insert with 16,000 runs
+2025-02-24 16:38:27.188 INFO  Benchmark_Timer - Begin run: 4-ary Heap Remove with 4,000 runs
+2025-02-24 16:38:27.198 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Insert with 16,000 runs
+2025-02-24 16:38:27.205 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Remove with 4,000 runs
+2025-02-24 16:42:37.663 INFO  Benchmark_Timer - Begin run: Binary Heap Insert with 16,000 runs
+2025-02-24 16:42:37.674 INFO  Benchmark_Timer - Begin run: Binary Heap Remove with 4,000 runs
+2025-02-24 16:42:37.682 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Insert with 16,000 runs
+2025-02-24 16:42:37.690 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Remove with 4,000 runs
+2025-02-24 16:42:37.697 INFO  Benchmark_Timer - Begin run: 4-ary Heap Insert with 16,000 runs
+2025-02-24 16:42:37.701 INFO  Benchmark_Timer - Begin run: 4-ary Heap Remove with 4,000 runs
+2025-02-24 16:42:37.707 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Insert with 16,000 runs
+2025-02-24 16:42:37.709 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Remove with 4,000 runs
+2025-02-24 16:42:37.728 INFO  Benchmark_Timer - Begin run: Fibonacci Heap Insert with 16,000 runs
+2025-02-24 16:42:37.744 INFO  Benchmark_Timer - Begin run: Fibonacci Heap Remove with 4,000 runs
+2025-02-24 18:19:20.588 INFO  Benchmark_Timer - Begin run: Binary Heap Insert with 16,000 runs
+2025-02-24 18:19:20.601 INFO  Benchmark_Timer - Begin run: Binary Heap Remove with 4,000 runs
+2025-02-24 18:19:20.608 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Insert with 16,000 runs
+2025-02-24 18:19:20.613 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Remove with 4,000 runs
+2025-02-24 18:19:20.622 INFO  Benchmark_Timer - Begin run: 4-ary Heap Insert with 16,000 runs
+2025-02-24 18:19:20.629 INFO  Benchmark_Timer - Begin run: 4-ary Heap Remove with 4,000 runs
+2025-02-24 18:19:20.636 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Insert with 16,000 runs
+2025-02-24 18:19:20.639 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Remove with 4,000 runs
+2025-02-24 18:19:20.649 INFO  Benchmark_Timer - Begin run: Fibonacci Heap Insert with 16,000 runs
+2025-02-24 18:19:20.659 INFO  Benchmark_Timer - Begin run: Fibonacci Heap Remove with 4,000 runs
+2025-02-24 18:23:47.060 INFO  Benchmark_Timer - Begin run: Binary Heap Insert with 16,000 runs
+2025-02-24 18:23:47.073 INFO  Benchmark_Timer - Begin run: Binary Heap Remove with 4,000 runs
+2025-02-24 18:23:47.083 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Insert with 16,000 runs
+2025-02-24 18:23:47.090 INFO  Benchmark_Timer - Begin run: Binary Heap + Floyd Remove with 4,000 runs
+2025-02-24 18:23:47.100 INFO  Benchmark_Timer - Begin run: 4-ary Heap Insert with 16,000 runs
+2025-02-24 18:23:47.107 INFO  Benchmark_Timer - Begin run: 4-ary Heap Remove with 4,000 runs
+2025-02-24 18:23:47.115 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Insert with 16,000 runs
+2025-02-24 18:23:47.119 INFO  Benchmark_Timer - Begin run: 4-ary Heap + Floyd Remove with 4,000 runs
+2025-02-24 18:23:47.132 INFO  Benchmark_Timer - Begin run: Fibonacci Heap Insert with 16,000 runs
+2025-02-24 18:23:47.144 INFO  Benchmark_Timer - Begin run: Fibonacci Heap Remove with 4,000 runs
+2025-03-24 20:24:48.772 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:24:48.904 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:24:49.017 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:24:49.126 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:24:49.312 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:24:49.714 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:24:50.377 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:33:44.652 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:33:44.760 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:33:44.848 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:33:44.975 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:33:45.162 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:33:45.560 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:33:46.186 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:34:44.468 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:34:44.576 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:34:44.676 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:34:44.794 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:34:44.971 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:34:45.363 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:34:46.084 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:39:27.267 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:39:27.382 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:39:27.488 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:39:27.591 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:39:27.770 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:39:28.158 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:39:28.812 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:44:52.369 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:44:52.475 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:44:52.572 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:44:52.692 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:44:52.872 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:44:53.277 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:44:54.002 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:51:43.731 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:51:43.834 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:51:43.948 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:51:44.050 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:51:44.236 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:51:44.664 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:51:45.401 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:54:07.092 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:07.197 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:07.289 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:07.406 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:07.626 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:08.080 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:08.876 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:54:43.915 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:44.026 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:44.121 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:44.218 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:44.402 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:44.787 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:54:45.523 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:55:10.930 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:11.045 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:11.147 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:11.249 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:11.427 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:11.813 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:12.534 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:55:21.443 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:21.562 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:21.656 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:21.774 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:21.956 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:22.335 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:23.005 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:55:29.983 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:30.095 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:30.197 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:30.318 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:30.510 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:30.913 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:55:31.600 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:59:04.947 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:59:05.051 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:59:05.148 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:59:05.244 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:59:05.430 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:59:05.819 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 20:59:06.539 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:59:08.044 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:59:10.391 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:59:19.407 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 20:59:44.266 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 21:07:22.901 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:07:23.007 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:07:23.106 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:07:23.219 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:07:23.408 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:07:23.820 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:07:24.495 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 21:28:24.848 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:28:24.954 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:28:25.048 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:28:25.152 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:28:25.337 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:28:25.721 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:28:26.331 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 21:32:06.707 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:32:06.816 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:32:07.003 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:32:07.101 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:32:07.294 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:32:07.715 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:32:08.427 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 21:38:29.958 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:38:30.074 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:38:30.265 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:38:30.401 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:38:30.648 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:38:31.083 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:38:31.731 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 21:42:23.972 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:42:24.080 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:42:24.192 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:42:24.296 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:42:24.482 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:42:24.893 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:42:25.674 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:42:26.642 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:42:30.286 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:42:44.862 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:43:30.601 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:43:30.709 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:43:30.818 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:43:30.944 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:43:31.125 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:43:31.524 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 21:43:32.301 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:43:33.260 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:43:36.849 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:43:51.958 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:44:57.338 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 21:47:49.052 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-24 22:30:56.609 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 22:30:56.771 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 22:30:56.885 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 22:30:56.995 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 22:30:57.194 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 22:30:57.625 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 22:30:58.430 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:01:53.306 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:01:53.432 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:01:53.541 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:01:53.651 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:01:53.847 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:01:54.274 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:01:54.942 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:01:57.541 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:02:08.735 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:04:29.738 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:04:29.856 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:04:29.963 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:04:30.086 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:04:30.273 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:04:30.681 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:04:31.308 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:04:34.249 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:04:45.551 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:05:40.347 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:05:40.461 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:05:40.565 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:05:40.669 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:05:40.860 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:05:41.289 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:05:41.947 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:05:44.569 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:05:54.509 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-24 23:07:20.578 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:07:20.700 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:07:20.797 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:07:20.911 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:07:21.103 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:07:21.531 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-24 23:07:22.205 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-26 17:52:15.749 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 17:52:15.876 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 17:52:15.981 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 17:52:16.108 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 17:52:16.317 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 17:52:16.740 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 17:52:17.388 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-26 18:19:26.703 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:19:26.817 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:19:27.002 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:19:27.143 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:19:27.395 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:19:27.821 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:19:28.573 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-26 18:30:16.315 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:30:16.421 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:30:16.503 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:30:16.610 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:30:16.795 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:30:17.185 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:30:17.899 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-26 18:35:02.093 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:35:02.201 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:35:02.297 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:35:02.397 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:35:02.575 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:35:02.971 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:35:03.677 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-26 18:39:13.265 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:39:13.370 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:39:13.471 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:39:13.577 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:39:13.759 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:39:14.141 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-26 18:39:14.802 INFO  Benchmark_Timer - Begin run: Timing sort for quicksortDualPivot with 1 runs
+2025-03-28 10:55:04.538 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-28 10:55:04.663 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-28 10:55:04.776 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-28 10:55:04.927 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-28 10:55:05.133 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-28 10:55:05.583 INFO  Benchmark_Timer - Begin run: Timing sort for mergesort with 1 runs
+2025-03-28 10:55:06.455 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-28 10:55:07.416 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-28 10:55:10.989 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-28 10:55:26.207 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-28 10:56:30.564 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs
+2025-03-28 10:59:20.349 INFO  Benchmark_Timer - Begin run: Timing sort for heapsort with 1 runs

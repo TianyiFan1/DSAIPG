@@ -1,0 +1,61 @@
+INFO 6205 Final Project Report
+Executive Summary
+This project implements a Monte Carlo Tree Search (MCTS)-based Chess simulation using Java. The goal was to integrate a self-built Chess engine with a reusable MCTS framework provided in the course. The system simulates full games with randomly initialized boards, supports automatic AI gameplay, measures performance under different simulation settings, and demonstrates key concepts of game tree search.
+
+Game Description
+We implemented a simplified version of the classic Chess game.
+The board is an 8x8 grid.
+All pieces (King, Queen, Rook, Bishop, Knight, Pawn) are randomly placed at game start.
+Each piece has simplified movement logic.
+The game ends when one side's King is removed from the board.
+The first player to play is White (faction = 1).
+Rule Reference: Wikipedia - Rules of chess
+
+How to Run the Simulation
+To simulate a complete chess game automatically:
+Run the following class:
+com.phasmidsoftware.dsaipg.projects.mcts.chess.ChessAutoPlay
+This will:
+Randomly generate a game state
+Let each side make moves automatically (using random legal moves)
+Print the board and each move in the console
+Stop when one player wins
+
+Monte Carlo Tree Search Integration
+
+ChessGame implements the Game interface from the MCTS framework
+ChessState represents each board configuration and supports legal move generation
+ChessMove defines transitions
+ChessNode builds the MCTS tree
+MCTSPlayer uses simulations to select moves based on win/playout ratios
+
+Timing Experiment
+To evaluate performance under different MCTS simulation counts, we ran the following:
+Class: MCTSTimingLogger
+Repeated simulation-based move selections with increasing simulation count
+Timing Results (in microseconds):
+Simulations
+Avg Time (μs)
+10 1498
+100 476
+500 907
+1000 1550
+2000 2047
+5000 3967
+
+Testing
+We included JUnit tests for:
+ChessGameTest:
+Whether the game state is initialized successfully (start())
+Whether there is no winner in the initial state (winner())
+
+Whether the players alternate correctly after each step (next())
+Whether there is a legal move (moves())
+Whether the game state can be correctly output as a string (toString())
+
+Citation
+Wikipedia: Rules of Chess
+Course-provided MCTS framework interfaces (Game, State, Move, Node)
+
+Conclusion
+This project demonstrates a working example of using Monte Carlo Tree Search to simulate a custom board game. While simplified, the Chess variant supports core MCTS principles, and performance evaluation confirms the effectiveness of simulation-based move selection.
